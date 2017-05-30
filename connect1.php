@@ -10,12 +10,7 @@
  </head>
  <body>
   <?php
-  $conn=mysqli_connect("localhost","root","","d56");
-  if($conn){
-	echo "connect sussecc";
-	}else{
-		echo "ERROR CONNECT";
-		}
+  
   ?>
  </body>
 </html>
